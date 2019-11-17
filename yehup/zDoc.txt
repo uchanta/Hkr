@@ -1,0 +1,8 @@
+LOG
+YEHUP -Youtube Etical Hacking Usigng Python
+
+
+REFERENCES:
+https://www.youtube.com/watch?v=CV_mMAYzTxw: Ethical Hacking using Python | Password Cracker Using Python | Edureka
+hashlib – Cifrar con los algoritmos MD5 y SHA: https://recursospython.com/guias-y-manuales/hashlib-md5-sha/
+@ucz
